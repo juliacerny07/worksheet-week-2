@@ -1,8 +1,7 @@
+createCanvas(800, 600);
 function setup(){
     background(0)
 }
-
-createCanvas(800, 600);
 
 function draw(){
     text("Hello, World!", 0, 50);
